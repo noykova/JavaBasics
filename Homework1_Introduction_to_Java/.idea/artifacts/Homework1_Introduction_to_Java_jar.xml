@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Homework1_Introduction_to_Java:jar">
+    <output-path>$USER_HOME$/IdeaTests</output-path>
+    <root id="archive" name="Homework1_Introduction_to_Java.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="dir-copy" path="$PROJECT_DIR$/.idea" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
